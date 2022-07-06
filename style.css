@@ -189,7 +189,7 @@ a {
 @media (max-width: 34.37em) {
   .card {
     width: 60rem;
-    margin: 3rem;
+    margin: 10rem 3rem 4rem 3rem;
     grid-template-columns: 1fr;
     height: 90rem;
     position: relative;
@@ -205,15 +205,15 @@ a {
 
   .bg__pattern {
     position: relative;
-    top: -61rem;
-    left: -13.5rem;
-    width: 80rem;
+    top: -19rem;
+    left: 2.5rem;
+    width: 50rem;
   }
 
   .woman-illustration-mobile {
     display: block;
     position: absolute;
-    top: -25%;
+    top: -10%;
     left: 1%;
   }
 
